@@ -6584,9 +6584,9 @@ https-proxy-agent@^7.0.2:
     debug "4"
 
 hull.js@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/hull.js/-/hull.js-1.0.0.tgz#509bf09384a9959c6f8b9c66abe07056f6f25f8d"
-  integrity sha512-JwKyla57UJdor52LI17jJ00aRzwYZUrq/V+WkOSQoF0ZuBz1NBwAyI7VzDmSFSPqUrgVJc3HCvqnMQzUW6Ku9w==
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/hull.js/-/hull.js-1.0.4.tgz#3266cb6180cceae101723f539b2c020a37d4038a"
+  integrity sha512-p7oV4LVNo8wokDXRAF/20WN0Nd02eRLWJI6KlEC5Ih/vBiy3fGtGeeRQIVUANIpu0AXLTDOsy0naJiNZpDL5OQ==
 
 human-signals@^1.1.1:
   version "1.1.1"
@@ -12782,6 +12782,7 @@ worker-loader@^3.0.0:
     schema-utils "^3.0.0"
 
 "wrap-ansi-cjs@npm:wrap-ansi@^7.0.0", wrap-ansi@^7.0.0:
+  name wrap-ansi-cjs
   version "7.0.0"
   resolved "https://registry.yarnpkg.com/wrap-ansi/-/wrap-ansi-7.0.0.tgz#67e145cff510a6a6984bdf1152911d69d2eb9e43"
   integrity sha512-YVGIj2kamLSTxw6NsZjoBxfSwsn0ycdesmc4p+Q21c5zPuZ1pl+NfxVdxPtdHvmNVOQ6XSYG4AUtyt/Fi7D16Q==
