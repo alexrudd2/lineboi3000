@@ -29,7 +29,7 @@
             "groupName": "webpack"
         },
         {
-            "matchPackagePatterns": ["redux"],
+            "matchPackagePatterns": ["redux", "reselect"],
             "groupName": "redux"
         }
     ]
