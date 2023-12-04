@@ -7,7 +7,7 @@
     },
     "patch": {
         "enabled": false
-    }
+    },
     "packageRules": [
         {
             "matchManagers": ["github-actions"],
