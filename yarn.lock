@@ -3728,9 +3728,9 @@ cross-spawn@^7.0.0, cross-spawn@^7.0.2, cross-spawn@^7.0.3:
     which "^2.0.1"
 
 css-declaration-sorter@^7.0.0:
-  version "7.3.1"
-  resolved "https://registry.yarnpkg.com/css-declaration-sorter/-/css-declaration-sorter-7.3.1.tgz#acd204976d7ca5240b5579bfe6e73d4d088fd568"
-  integrity sha512-gz6x+KkgNCjxq3Var03pRYLhyNfwhkKF1g/yoLgDNtFvVu0/fOLV9C8fFEZRjACp/XQLumjAYo7JVjzH3wLbxA==
+  version "7.4.0"
+  resolved "https://registry.yarnpkg.com/css-declaration-sorter/-/css-declaration-sorter-7.4.0.tgz#9c215fbda2dcf4083bae69f125688158ae847deb"
+  integrity sha512-LTuzjPoyA2vMGKKcaOqKSp7Ub2eGrNfKiZH4LpezxpNrsICGCSFvsQOI29psISxNZtaXibkC2CXzrQ5enMeGGw==
 
 css-functions-list@^3.2.1:
   version "3.2.1"
