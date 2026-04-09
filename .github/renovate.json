@@ -14,26 +14,26 @@
             "automerge": true
         },
         {
-            "extends": "packages:linters",
+            "extends": ["packages:linters"],
             "groupName": "linters",
             "automerge": true
         },
         {
-            "extends": "packages:jsTest",
+            "extends": ["packages:jsTest"],
             "groupName": "JS test packages",
             "automerge": true
         },
         {
-            "matchPackagePatterns": ["pre-commit"],
-            "automerge": true
+            "automerge": true,
+            "matchPackageNames": ["/pre-commit/"]
         },
         {
-            "matchPackagePatterns": ["webpack", "-loader"],
-            "groupName": "webpack"
+            "groupName": "webpack",
+            "matchPackageNames": ["/webpack/", "/-loader/"]
         },
         {
-            "matchPackagePatterns": ["redux", "reselect"],
-            "groupName": "redux"
+            "groupName": "redux",
+            "matchPackageNames": ["/redux/", "/reselect/"]
         }
     ]
 }
